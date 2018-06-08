@@ -3,3 +3,4 @@ This is a repository for python neural network implementation. This includes bot
  *  [MNIST digits classification](https://github.com/saurabbhsp/Neural-Networks/tree/master/mnist)
  *  [Back propogation](https://github.com/saurabbhsp/Neural-Networks/tree/master/backpropogation)
  *  [Facial recogation](https://github.com/saurabbhsp/Neural-Networks/tree/master/faceDetection)
+ *  [CNN classification](https://github.com/saurabbhsp/Neural-Networks/tree/master/cnnClassification)
